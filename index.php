@@ -14,7 +14,7 @@
 			<div class="py-3 text-center">
 				<img class="d-block mx-auto mb-2" src="logo.jpg" alt="" width="72" height="72">
 				<h2>Zeca Mail</h2>
-				<p class="lead">Seu app de envio de spam particular!</p>
+				<p class="lead">Seu site para envio de spam particular!</p>
 			</div>
 
       		<div class="row">
